@@ -11,7 +11,7 @@ rdkafka
 amqp
 stomp
 xhprof
-swoole
+zan
 msgpack
 grpc
 zookeeper
